@@ -100,3 +100,30 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#load-image{
+    width:"15%";
+}
+
+#myPhoto{
+    width:"61%";
+}
+
+#text1{
+    width:"24%";
+    align:"center";
+}
+
+#coffee_text{
+    width:"80%";
+}
+
+#button{
+    width:"20%";
+    text-align:right;
+}
+
+
+#comments {
+    text-align:center;
+}
